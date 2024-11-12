@@ -1,0 +1,14 @@
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\bin\Debug\net8.0\NäsanÖverE.exe
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\bin\Debug\net8.0\NäsanÖverE.deps.json
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\bin\Debug\net8.0\NäsanÖverE.runtimeconfig.json
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\bin\Debug\net8.0\NäsanÖverE.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\bin\Debug\net8.0\NäsanÖverE.pdb
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.AssemblyInfoInputs.cache
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.AssemblyInfo.cs
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.csproj.CoreCompileInputs.cache
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\refint\NäsanÖverE.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.pdb
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\NäsanÖverE.genruntimeconfig.cache
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE\obj\Debug\net8.0\ref\NäsanÖverE.dll
